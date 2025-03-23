@@ -1,14 +1,15 @@
-PS C:\Users\yasrl\OneDrive\Desktop\Samurai_Terakoya\Gitの基本的な使い方を学ぼう\git_tutorial> git init
-Initialized empty Git repository in C:/Users/yasrl/OneDrive/Desktop/Samurai_Terakoya/Gitの基本的な使い方を学ぼう/git_tutorial/.git/
-PS C:\Users\yasrl\OneDrive\Desktop\Samurai_Terakoya\Gitの基本的な使い方を学ぼう\git_tutorial> git add hello_world.txt
-PS C:\Users\yasrl\OneDrive\Desktop\Samurai_Terakoya\Gitの基本的な使い方を学ぼう\git_tutorial> git commit -m "hello_world.txtを追加"
-[main (root-commit) 46980d6] hello_world.txtを追加
+PS C:\Users\yasrl\OneDrive\Desktop\Samurai_Terakoya\Gitの基本的な使い方を学ぼう\git_challenge> git init
+Initialized empty Git repository in C:/Users/yasrl/OneDrive/Desktop/Samurai_Terakoya/Gitの基本的な使い方を学ぼう/git_challenge/.git/
+PS C:\Users\yasrl\OneDrive\Desktop\Samurai_Terakoya\Gitの基本的な使い方を学ぼう\git_challenge> git add hello_world.txt
+PS C:\Users\yasrl\OneDrive\Desktop\Samurai_Terakoya\Gitの基本的な使い方を学ぼう\git_challenge> git commit -m "hello_world.txtを追加"
+[main (root-commit) a5185a2] hello_world.txtを追加
  1 file changed, 1 insertion(+)
  create mode 100644 hello_world.txt
-PS C:\Users\yasrl\OneDrive\Desktop\Samurai_Terakoya\Gitの基本的な使い方を学ぼう\git_tutorial> git add hello_world.txt
-PS C:\Users\yasrl\OneDrive\Desktop\Samurai_Terakoya\Gitの基本的な使い方を学ぼう\git_tutorial> git commit -m "日本語訳を追記"
-[main c0b3741] 日本語訳を追記
+PS C:\Users\yasrl\OneDrive\Desktop\Samurai_Terakoya\Gitの基本的な使い方を学ぼう\git_challenge> git add hello_world.txt
+PS C:\Users\yasrl\OneDrive\Desktop\Samurai_Terakoya\Gitの基本的な使い方を学ぼう\git_challenge> git commit -m "日本語訳を追記"
+[main cdcdc2f] 日本語訳を追記
  1 file changed, 2 insertions(+), 1 deletion(-)
-PS C:\Users\yasrl\OneDrive\Desktop\Samurai_Terakoya\Gitの基本的な使い方を学ぼう\git_tutorial> git log --oneline             
-c0b3741 (HEAD -> main) 日本語訳を追記
-46980d6 hello_world.txtを追加
+PS C:\Users\yasrl\OneDrive\Desktop\Samurai_Terakoya\Gitの基本的な使い方を学ぼう\git_challenge> git log --oneline
+cdcdc2f (HEAD -> main) 日本語訳を追記
+a5185a2 hello_world.txtを追加
+PS C:\Users\yasrl\OneDrive\Desktop\Samurai_Terakoya\Gitの基本的な使い方を学ぼう\git_challenge> 
